@@ -50,7 +50,7 @@ export function Hero() {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.8, duration: 1 }}
         >
-          Pixel <br className="md:hidden" />
+          Our <br className="md:hidden" />
           <span className="relative inline-block mt-2 md:mt-0">
             <span className="relative z-10 text-white bg-pink-deep px-4 py-1 rounded-2xl inline-block -rotate-3 border-[4px] border-border shadow-[6px_6px_0_var(--color-sage)]">
               Memories
