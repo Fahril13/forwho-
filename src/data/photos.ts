@@ -10,57 +10,57 @@ export const galleryPhotos: Photo[] = [
   {
     id: "1",
     url: "/gallery/1.jpg",
-    caption: "Momen saat kita menghabiskan waktu tanpa rencana yang jelas, tapi terasa paling menyenangkan.",
+    caption: "foto yang aku perlihatkan ke orang tua aku. cantik bangettt.",
   },
   {
     id: "2",
     url: "/gallery/2.jpg",
-    caption: "Senyum ini adalah bukti bahwa hari-hari berat pun bisa terasa ringan.",
+    caption: "senyum ini adalah bukti bahwa hari-hari berat pun bisa terasa ringan yakan.",
   },
   {
     id: "3",
     url: "/gallery/3.jpg",
-    caption: "Jendela, kopi, dan tawa yang tidak pernah habis. Sederhana namun penuh makna.",
+    caption: "ini adalah wallpapers pertama aku dan ini cantik banget dawg.",
   },
   {
     id: "4",
     url: "/gallery/4.jpg",
-    caption: "Entah apa yang kita bicarakan saat ini, tapi rasanya tidak ingin hari cepat berlalu.",
+    caption: "ini foto sarkas doang bcz lu jahil ke gw.",
   },
   {
     id: "5",
     url: "/gallery/5.jpg",
-    caption: "Perjalanan kecil yang selalu membawa memori besar.",
+    caption: "foto ini yang paling lucu gemas, entah kenapa tapi ak suka sama foto ini, kalau ak bisa putar balik waktu, ak mau ketemu kamu dari awal.",
   },
   {
     id: "6",
     url: "/gallery/6.jpg",
-    caption: "Tempat favorit. Cerita favorit. Orang favorit.",
+    caption: "ini foto kamu setelah graduate school, walaupun sakit kepala, terus utbk hanya hitungan jari, dan kamu bisa lewatin itu semua. im so proud of you sayang.",
   },
   {
     id: "7",
     url: "/gallery/7.jpg",
-    caption: "Masa-masa penuh dengan kejutan manis yang tak pernah terpikirkan.",
+    caption: "masa masa smp waktu lagi lucu lucunyahh.",
   },
   {
     id: "8",
     url: "/gallery/8.jpg",
-    caption: "Momen ini mungkin singkat, namun memorinya bertahan selamanya.",
+    caption: "momen ini mungkin hal yang paling ak ingat, ini kita pertama kali jalan lumayan jauh walaupun masih di smd, disitu ak merasa kamu cantik bangett",
   },
   {
     id: "9",
     url: "/gallery/9.jpg",
-    caption: "Percakapan larut malam dan pemikiran serampangan yang menyenangkan.",
+    caption: "ini foto kamu waktu lagi lebaran cuantikkk pollllllllll.",
   },
   {
     id: "10",
     url: "/gallery/10.jpg",
-    caption: "Terkadang yang paling indah adalah di saat kita diam bersama.",
+    caption: "ini foto waktu pesantren kilat aduh ini cantik juga lagi sayang.",
   },
   {
     id: "11",
     url: "/gallery/11.jpg",
-    caption: "Hari di mana semuanya terasa pas, dan tidak ada yang perlu dicemaskan.",
+    caption: "nah kalau ini foto kamu ulang tahun ke 18 masa masa utbk mulai menghantui ahahahahah.",
   }
 ];
 
