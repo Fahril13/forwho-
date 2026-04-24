@@ -50,7 +50,7 @@ export function Gallery() {
           viewport={{ once: true }}
           transition={{ delay: 0.2 }}
         >
-          Koleksi foto terbaik kita. Klik gambarnya untuk melihat cerita yang lebih besar!
+          Koleksi foto terbaik kamu walaupun engga semuanya. Klik gambarnya untuk melihat cerita yang lebih besar!
         </motion.p>
       </div>
 
