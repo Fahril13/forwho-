@@ -68,14 +68,14 @@ export const highlightMoments = [
   {
     id: "h1",
     title: "The Quiet Afternoons",
-    desc: "Bukan tentang ke mana kita pergi, tapi tentang rasa tenang saat duduk bersama. Hening yang tidak pernah terasa canggung.",
+    desc: "aku mencintaimu itu. itu sebabnya aku takkan pernah selesai mendoakanmu.",
     url: "/highlights/1.jpg",
     align: "left"
   },
   {
     id: "h2",
     title: "Endless Conversations",
-    desc: "Topik yang melompat dari A sampai Z. Dari hal paling tidak penting sampai mimpi-mimpi di masa depan.",
+    desc: "kadang bahas hal random, kadang serius. ga selalu penting, tapi selalu berarti. entah kenapa, kalau sama kamu rasanya ga pernah gapernah lelah buat cerita.",
     url: "/highlights/2.jpg",
     align: "right"
   }
