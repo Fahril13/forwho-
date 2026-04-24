@@ -53,7 +53,7 @@ export function Highlights() {
                   whileHover={{ scale: 1.05, x: 10 }}
                 >
                   <span className="font-sans font-bold text-[10px] uppercase text-pink-deep block mb-1 tracking-widest">RECORDED MEMORY</span>
-                  <p className="font-serif text-sm italic text-ink/70">Terima kasih sudah ada di sini.</p>
+                  <p className="font-serif text-sm italic text-ink/70">terima kasih buat semuanya dan yang sudah kita lewatin.</p>
                 </motion.div>
               </div>
             </motion.div>
