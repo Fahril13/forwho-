@@ -2,8 +2,8 @@ export interface Photo {
   id: string;
   url: string;
   caption: string;
-  width?: number;
-  height?: number;
+  width?: number; // for grid layout
+  height?: number; // for grid layout
 }
 
 export const galleryPhotos: Photo[] = [
@@ -68,14 +68,14 @@ export const highlightMoments = [
   {
     id: "h1",
     title: "The Quiet Afternoons",
-    desc: "Bukan tentang ke mana kita pergi, tapi tentang rasa tenang saat duduk bersama.",
+    desc: "Bukan tentang ke mana kita pergi, tapi tentang rasa tenang saat duduk bersama. Hening yang tidak pernah terasa canggung.",
     url: "/highlights/1.jpg",
     align: "left"
   },
   {
     id: "h2",
     title: "Endless Conversations",
-    desc: "Topik yang melompat dari A sampai Z.",
+    desc: "Topik yang melompat dari A sampai Z. Dari hal paling tidak penting sampai mimpi-mimpi di masa depan.",
     url: "/highlights/2.jpg",
     align: "right"
   }
